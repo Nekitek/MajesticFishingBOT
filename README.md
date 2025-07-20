@@ -30,6 +30,7 @@
 
 ```bash
 pip install keyboard pillow mss pyautogui
+```
 
 ## 💬 Связь
 
